@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     alt="HTML"
     title="HTML" 
     width="20px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
@@ -160,21 +160,6 @@ Here are some ideas to get you started:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"    
 />
-<img 
-    align="left" 
-    alt="illustrator" 
-    title="illustrator"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"    
-/>
-<img 
-    align="left" 
-    alt="laravel" 
-    title="laravel"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-/>
+
 <br/>
 <br/>
