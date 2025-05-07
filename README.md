@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+src="https://www.citypng.com/public/uploads/preview/cisco-blue-logo-png-735811696610010utjhevbxcl.png"  CISCO
 -->
 
 <img 
@@ -159,7 +161,7 @@ Here are some ideas to get you started:
     title="cisco"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.citypng.com/public/uploads/preview/cisco-blue-logo-png-735811696610010utjhevbxcl.png"    
+    src="https://www.dentonsolutions.com/wp-content/uploads/2017/06/Cisco-logo.png"    
 />
 
 <br/>
