@@ -169,7 +169,7 @@ src="https://www.citypng.com/public/uploads/preview/cisco-blue-logo-png-73581169
     title="oracle"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://logospng.org/wp-content/uploads/oracle.png"    
+    src="https://logospng.org/download/oracle/oracle-2048.png"    
 />
 <br/>
 <br/>
