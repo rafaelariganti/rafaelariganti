@@ -159,7 +159,7 @@ Here are some ideas to get you started:
     title="cisco"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/640px-Cisco_logo_blue_2016.svg.png"    
+    src="https://f.invest.gov.tr/en/WhyTurkey/Testimonials/PublishingImages/cisco_300x330_t.png"    
 />
 
 <br/>
