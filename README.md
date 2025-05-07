@@ -161,7 +161,7 @@ src="https://www.citypng.com/public/uploads/preview/cisco-blue-logo-png-73581169
     title="cisco"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.dentonsolutions.com/wp-content/uploads/2017/06/Cisco-logo.png"    
+    src="https://f.invest.gov.tr/en/WhyTurkey/Testimonials/PublishingImages/cisco_300x330_t.png"    
 />
 
 <br/>
