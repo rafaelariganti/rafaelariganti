@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="React"
     title="React" 
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Python" 
     title="Python"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Canva" 
     title="Canva"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
 />
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Figma" 
     title="Figma"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"     
 />
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Firebase" 
     title="Firebase"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"              
 />
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Godot" 
     title="Godot"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"     
 />
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Java" 
     title="Java"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"     
 />
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"      
 />
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="Notion" 
     title="Notion"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"    
 />
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="PS" 
     title="PS"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"    
 />
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="c#" 
     title="c#"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"    
 />
@@ -149,7 +149,7 @@ Here are some ideas to get you started:
     align="left" 
     alt="c++" 
     title="c++"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"    
 />
