@@ -19,8 +19,8 @@ Here are some ideas to get you started:
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="20px" 
-    style="padding-right: 20px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
@@ -128,14 +128,7 @@ Here are some ideas to get you started:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"    
 />
-<img 
-    align="left" 
-    alt="PS" 
-    title="PS"
-    width="20px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"    
-/>
+
 <img 
     align="left" 
     alt="PS" 
