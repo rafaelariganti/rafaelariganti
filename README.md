@@ -163,6 +163,13 @@ src="https://www.citypng.com/public/uploads/preview/cisco-blue-logo-png-73581169
     style="padding-right: 10px;" 
     src="https://f.invest.gov.tr/en/WhyTurkey/Testimonials/PublishingImages/cisco_300x330_t.png"    
 />
-
+<img 
+    align="left" 
+    alt="oracle" 
+    title="oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://logospng.org/wp-content/uploads/oracle.png"    
+/>
 <br/>
 <br/>
